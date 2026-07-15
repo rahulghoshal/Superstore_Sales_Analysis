@@ -152,19 +152,6 @@ The notebook includes several business-oriented visualizations, including:
 
 ---
 
-## 📁 Project Structure
-
-```text
-Superstore-Sales-Analysis/
-│
-├── store_analysis.ipynb
-├── Sample - Superstore.csv
-├── README.md
-└── images/          (optional)
-```
-
----
-
 ## ▶️ Getting Started
 
 ### Clone the repository
